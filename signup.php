@@ -3,7 +3,6 @@
 
 <div class="container">
     <div class="row" style="margin-top: 10%">
-
         <h3 class="text-center">Sign Up</h3><br>
         <div class="col-md-2 col-md-offset-2">
             <img src="img/pig.png" class="img img-responsive">
